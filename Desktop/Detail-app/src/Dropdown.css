@@ -1,0 +1,7 @@
+.stripe {
+  color: #56c0d0;
+}
+.stripe:hover {
+  background: #56c0d0;
+  color: white;
+}
